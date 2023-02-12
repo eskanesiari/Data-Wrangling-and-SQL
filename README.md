@@ -9,7 +9,7 @@ Ini merupakan suatu project analisis data dari file database (olist.db) mengenai
 ## OBJECTIVE
 1. Mencari Top 10 Barang yang paling banyak dibeli
 2. Mencari daerah/kota di Brazil yang paling banyak melakukan pembelanjaan
-3. Mengukur korelasi antara Score Review dengan Lama Waktu Pembelanjaan
+3. Mencari korelasi antara Lama Waktu Pembelanjaan dengan Score Review yang diberikan
 
 ## RESULT
 - Objective 1 :
