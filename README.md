@@ -22,3 +22,5 @@ Ini merupakan suatu project analisis data dari file database (olist.db) mengenai
 ![Hasil Objective3](https://user-images.githubusercontent.com/101574764/218319939-27c8d5fc-7e05-4a85-b6d1-6de5c8b6b2ae.jpg)
 
 
+## MORE DETAILS
+https://medium.com/@eskanesiari/analisis-data-pada-e-commerce-di-brazil-ddbce8ef7138
